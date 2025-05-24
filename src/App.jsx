@@ -35,8 +35,10 @@ function App() {
         </h1>
 
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-20 text-white font-bold text-4xl text-center">
-          Hey, I am Abhay Sharma
+          <div>Hey, I am Abhay Sharma</div>
+            <div className='text-indigo-500'>I am a B Tech CSE student at NIT allahabad.</div>
         </div>
+      
       </div>
 
       {/* Project Section */}
@@ -49,6 +51,8 @@ function App() {
             <div className="p-6">
               <h3 className="text-2xl font-semibold text-fuchsia-400 mb-2">Swiskills</h3>
                <a href="https://github.com/abhaysharma20233009/swiskills">GitHub</a>
+               <br/>
+               <a href="https://swiskills.onrender.com/">Swiskills</a>
               <p className="text-gray-300">
                 A platform for skill sharing and learning with user reviews ,chat and notification features.
               </p>
@@ -61,6 +65,8 @@ function App() {
             <div className="p-6">
               <h3 className="text-2xl font-semibold text-fuchsia-400 mb-2">Shop-Circuit</h3>
               <a href="https://github.com/abhaysharma20233009/Shop-Circuit">GitHub</a>
+              <br/>
+               <a href="https://shop-circuit.onrender.com/">Shop-Circuit</a>
               <p className="text-gray-300">
                 An e-commerce project built to help users browse,sell and rent products to others.
               </p>
@@ -88,7 +94,8 @@ function App() {
       <section id="contact" className="bg-black py-16 px-4 text-white text-center">
         <h2 className="text-3xl font-bold mb-4 text-fuchsia-500">Contact</h2>
         <p className="text-gray-300">
-          You can reach out to me at: <span className="text-fuchsia-400">abhaysharma21102006@gmail.com</span>
+          You can reach out to me at: <a href="mailto:abhaysharma21102006@gmail.com">abhaysharma21102006@gmail@gmail.com</a>
+
         </p>
       </section>
     </>
