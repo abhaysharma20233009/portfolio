@@ -37,9 +37,9 @@ const profile = {
 
   // Replace these if required.
   github: "https://github.com/abhaysharma20233009",
-  linkedin: "#",
-  leetcode: "https://leetcode.com/",
-  codeforces: "https://codeforces.com/",
+  linkedin: "https://www.linkedin.com/in/abhay-sharma-405486288/",
+  leetcode: "https://leetcode.com/u/Abhay_Sharma17/",
+  codeforces: "https://codeforces.com/profile/abhaysharma20233009",
 };
 
 const projects = [
