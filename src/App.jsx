@@ -96,7 +96,7 @@ const skillGroups = [
   {
     title: "Languages",
     icon: Code2,
-    items: ["C++", "JavaScript", "SQL"],
+    items: ["C++", "JavaScript", "SQL", "Java", "Python"],
   },
   {
     title: "Backend",
@@ -111,14 +111,14 @@ const skillGroups = [
   {
     title: "Databases",
     icon: Database,
-    items: ["MongoDB", "PostgreSQL"],
+    items: ["MongoDB", "MySql"],
   },
   {
     title: "Core CS",
     icon: Cpu,
     items: [
       "Data Structures & Algorithms",
-      "OOP",
+      "Object Oriented Programming",
       "Operating Systems",
       "Computer Networks",
       "DBMS",
